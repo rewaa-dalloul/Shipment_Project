@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\SPM\SPM.Data\bin\Debug\net5.0\SPM.Data.deps.json
+C:\Users\hp\source\repos\SPM\SPM.Data\bin\Debug\net5.0\SPM.Data.runtimeconfig.json
+C:\Users\hp\source\repos\SPM\SPM.Data\bin\Debug\net5.0\SPM.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\SPM\SPM.Data\bin\Debug\net5.0\SPM.Data.dll
+C:\Users\hp\source\repos\SPM\SPM.Data\bin\Debug\net5.0\ref\SPM.Data.dll
+C:\Users\hp\source\repos\SPM\SPM.Data\bin\Debug\net5.0\SPM.Data.pdb
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\SPM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\SPM.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\SPM.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\SPM.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\SPM.Data.dll
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\ref\SPM.Data.dll
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\SPM.Data.pdb
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\SPM.Data.genruntimeconfig.cache
+C:\Users\hp\source\repos\SPM\SPM.Data\obj\Debug\net5.0\SPM.Data.csprojAssemblyReference.cache
